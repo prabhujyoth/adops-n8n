@@ -1,0 +1,37 @@
+[
+  {
+    "type": "CAMPAIGN_PAUSED",
+    "campaignId": "cmp_1",
+    "spend": 420,
+    "budget": 1000,
+    "timestamp": "2026-01-17T13:21:52.324Z"
+  },
+  {
+    "type": "CAMPAIGN_PAUSED",
+    "campaignId": "cmp_1",
+    "spend": 494,
+    "budget": 1000,
+    "timestamp": "2026-01-17T13:34:51.293Z"
+  },
+  {
+    "type": "CAMPAIGN_PAUSED",
+    "campaignId": "cmp_1",
+    "spend": 420,
+    "budget": 1000,
+    "timestamp": "2026-01-17T13:35:57.717Z"
+  },
+  {
+    "type": "CAMPAIGN_PAUSED",
+    "campaignId": "cmp_1",
+    "spend": 420,
+    "budget": 1000,
+    "timestamp": "2026-01-17T13:36:44.589Z"
+  },
+  {
+    "type": "CAMPAIGN_RESUMED",
+    "campaignId": "cmp_1",
+    "spend": 420,
+    "budget": 1000,
+    "timestamp": "2026-01-17T13:37:29.405Z"
+  }
+]
